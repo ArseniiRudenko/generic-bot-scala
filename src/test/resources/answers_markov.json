@@ -1,0 +1,8 @@
+[
+  {
+    "matchStrings":["gen","say"],
+    "answer": {
+      "pathToMarkovChain": "src/test/resources/out.json"
+    }
+  }
+]

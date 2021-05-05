@@ -1,0 +1,8 @@
+[
+  {
+    "matchTextExact":["/time"],
+    "answer": {
+      "command":["date","+%Y-%m-%d"]
+    }
+  }
+]

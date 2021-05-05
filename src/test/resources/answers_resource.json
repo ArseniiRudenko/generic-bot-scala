@@ -1,0 +1,9 @@
+[
+  {
+    "matchStrings":["film","🎬"],
+    "answer": {
+      "path": "films.json",
+      "isResource": true
+    }
+  }
+]
